@@ -7,6 +7,7 @@ The project itself is a really simple website with a form and a list of jobs. It
 # Technologies used
 - Java (Spring Boot), PostgreSQL
 - React(ts), Bootstrap
+- Docker (for running postgreSQL database)
 
 # How to run locally in dev mode
 - go into java-server folder
