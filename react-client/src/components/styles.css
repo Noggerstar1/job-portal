@@ -1,0 +1,11 @@
+.job-offer-hover:hover {
+    background-color: #f8f9fa;
+}
+
+.job-offer-hover {
+    cursor: pointer;
+}
+
+.link {
+    cursor: pointer;
+}
