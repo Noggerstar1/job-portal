@@ -5,12 +5,9 @@ import {router} from "./components/menu/Router.tsx";
 
 function App() {
 
-
-
   return (
     <>
         <RouterProvider router={router} />
-
     </>
   )
 }

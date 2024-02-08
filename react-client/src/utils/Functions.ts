@@ -5,7 +5,7 @@ export const timeAgo = (date: Date): string => {
     const differenceInSeconds = Math.floor((now.getTime() - dateToCompare.getTime()) / 1000);
 
     if (differenceInSeconds < 60) {
-        return 'Nyní';
+        return 'nyní';
     } else if (differenceInSeconds < 3600) {
         return `před ${Math.floor(differenceInSeconds / 60)} min`;
     } else if (differenceInSeconds < 172800) {
