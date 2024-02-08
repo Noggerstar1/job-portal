@@ -8,7 +8,7 @@ The project itself is a really simple website with a form and a list of jobs. It
 - Java (Spring Boot), PostgreSQL
 - React(ts), Bootstrap
 
-# How to run locally
+# How to run locally in dev mode
 - go into java-server folder
 - run docker-compose up
 - run spring boot project
